@@ -1,5 +1,8 @@
-package grover.malvika.java;
+/*
+FInd similar socks problem from HackerRank
+ */
 
+package grover.malvika.java;
 import java.io.*;
 import java.util.*;
 
