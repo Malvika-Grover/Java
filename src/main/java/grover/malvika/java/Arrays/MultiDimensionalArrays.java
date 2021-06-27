@@ -1,4 +1,4 @@
-package grover.malvika.java;
+package grover.malvika.java.Arrays;
 
 public class MultiDimensionalArrays {
 

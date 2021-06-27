@@ -1,4 +1,4 @@
-package grover.malvika.java;
+package grover.malvika.java.Sets;
 import java.util.LinkedHashSet;
 
 public class LinkedHashSetDemo {

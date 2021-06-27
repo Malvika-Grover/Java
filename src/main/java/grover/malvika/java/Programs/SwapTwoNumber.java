@@ -1,4 +1,4 @@
-package grover.malvika.java;
+package grover.malvika.java.Programs;
 
 public class SwapTwoNumber {
 

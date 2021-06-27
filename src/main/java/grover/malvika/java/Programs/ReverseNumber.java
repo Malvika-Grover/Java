@@ -1,4 +1,4 @@
-package grover.malvika.java;
+package grover.malvika.java.Programs;
 
 public class ReverseNumber {
     public static void main(String[] args) {

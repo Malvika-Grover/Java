@@ -1,4 +1,4 @@
-package grover.malvika.java;
+package grover.malvika.java.Basics;
 
 public class ClassesAndObject {
 

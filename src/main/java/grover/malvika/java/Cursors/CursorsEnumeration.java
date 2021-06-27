@@ -1,4 +1,4 @@
-package grover.malvika.java;
+package grover.malvika.java.Cursors;
 
 import java.util.Enumeration;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package grover.malvika.java;
+package grover.malvika.java.List;
 import java.util.*;
 
 public class ListDemo {

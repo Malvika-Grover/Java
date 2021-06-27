@@ -2,7 +2,7 @@
 FInd similar socks problem from HackerRank
  */
 
-package grover.malvika.java;
+package grover.malvika.java.Programs;
 import java.io.*;
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package grover.malvika.java;
+package grover.malvika.java.Arrays;
 
 public class ArrayReferences {
     public static void main(String[] args) {
